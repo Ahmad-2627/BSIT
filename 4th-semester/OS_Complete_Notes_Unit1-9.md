@@ -139,6 +139,7 @@ Program Execution, I/O Operations, File System Manipulation, Communication, Erro
 
 ## 3.7 Multithreading Models
 - **User-level thread** = managed by program itself; **Kernel-level thread** = managed by OS
+
 | Model | Mapping | Note |
 |---|---|---|
 | Many-to-One | Many user threads → 1 kernel thread | One blocking call freezes ALL threads |
