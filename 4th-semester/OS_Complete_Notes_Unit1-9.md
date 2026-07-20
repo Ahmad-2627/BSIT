@@ -206,8 +206,9 @@ Average Turnaround Time      = (Sum of all TAT) / (number of processes)
 ## 4.7 Multilevel Queue Scheduling
 - Multiple SEPARATE queues by process type (System / Interactive / Batch), each can use a DIFFERENT algorithm
 - Processes PERMANENTLY assigned to one queue — NO movement between queues.
+
 **How do queues get CPU time relative to each other?**
-  Usually via strict priority (Queue 1 always runs before Queue 2, which runs before Queue 3) OR time-slicing between queues (e.g., Queue 1 gets 50% of CPU time, Queue 2 gets 30%, Queue 3 gets 20%).
+Usually via strict priority (Queue 1 always runs before Queue 2, which runs before Queue 3) OR time-slicing between queues (e.g., Queue 1 gets 50% of CPU time, Queue 2 gets 30%, Queue 3 gets 20%).
 
 ## 4.8 Multilevel Feedback Queue (MLFQ)
 - Same as Multilevel Queue BUT processes CAN move between queues
