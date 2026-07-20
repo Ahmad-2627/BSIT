@@ -231,8 +231,10 @@ Usually via **strict priority** (Queue 1 always runs before Queue 2, which runs 
 ## 5.2 Race Condition ⭐
 - **Race Condition** = final result depends on unpredictable TIMING of concurrent access to shared data
 - Caused by operations (e.g. `balance = balance + 50`) being split into steps: READ → MODIFY → WRITE, which can be interleaved badly
-- **Exam method:** draw a timeline table
-Time | Process A steps | Process B steps | shared variable value) showing wrong final result vs correct expected result
+- **Exam method:** draw a timeline table showing wrong final result vs correct expected result
+
+Time | Process A steps | Process B steps | shared variable value
+
 - Solution: protect with Mutex/Semaphore (make it atomic)
 
 ## 5.3 Mutex
