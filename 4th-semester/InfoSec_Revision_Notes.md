@@ -37,8 +37,8 @@ RISK (chance damage actually happens)
 
 ```
                  Confidentiality
-                       /\
-                      /  \
+                       / \
+                      /   \
                      / CIA \
                     /  Triad \
                    /__________\
@@ -73,10 +73,10 @@ Security SERVICE (the goal)  →  Security MECHANISM (the tool)
                     ATTACKS
                    /        \
             PASSIVE          ACTIVE
-        (only watch)    (actually DO something)
-     Violates:              Violates:
-     Confidentiality         Integrity + Availability
-     Hard to detect ❌       Easier to detect ✅
+        (only watch)         (actually DO something)
+       Violates:                Violates:
+     Confidentiality            Integrity + Availability
+     Hard to detect ❌          Easier to detect ✅
 ```
 
 ### Passive Attacks
