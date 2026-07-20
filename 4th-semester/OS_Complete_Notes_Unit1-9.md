@@ -158,6 +158,8 @@ Program Execution, I/O Operations, File System Manipulation, Communication, Erro
 # UNIT 4 — CPU SCHEDULING
 
 ## 4.1 Scheduling Concepts & Criteria — CORE FORMULAS ⭐
+
+**CPU Scheduling** = deciding WHICH process in the Ready queue gets the CPU next, and for how long.
 ```
 Turnaround Time (TAT) = Completion Time (CT) − Arrival Time (AT)
 Waiting Time (WT)     = Turnaround Time (TAT) − Burst Time (BT)
