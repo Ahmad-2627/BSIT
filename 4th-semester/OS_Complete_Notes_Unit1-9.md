@@ -372,12 +372,15 @@ Page Table Size        = Number of Pages × PTE size (in bytes)
 - Logical Address = [Segment Number (s) | Offset (d)]
 - **Translation:** Check Offset < Limit (bounds check!) → Physical Address = Base + Offset. If Offset ≥ Limit → illegal access ERROR.
 - **Paging vs Segmentation:**
+```
 | | Paging | Segmentation |
 |---|---|---|
 | Block size | Fixed | Variable |
 | Basis | Mechanical | Logical program structure |
 | Table | Page Table (Page→Frame) | Segment Table (Base+Limit) |
 | Fragmentation | Internal | External |
+
+```
 
 ## 7.5 TLB & Effective Access Time ⭐
 - **TLB** = fast cache storing recent Page→Frame translations
