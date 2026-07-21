@@ -650,7 +650,7 @@ Managers have **real but limited** influence. They operate within constraints th
 
 ### 
 
-### **STAGE 2 — Ethical & Social Environment**
+# **STAGE 2 — Ethical & Social Environment**
 
 ## **2.1 — What is Ethics & Why it Matters in Business**
 
@@ -1052,7 +1052,7 @@ Obstructionist → Defensive → Accommodative → Proactive
 
 ### 
 
-### **STAGE 3 — Environment & Culture of Management**
+# **STAGE 3 — Environment & Culture of Management**
 
 ## **3.1 — Why Environment Matters for Managers**
 
@@ -1521,7 +1521,7 @@ flowchart LR
 
 ### 
 
-### **STAGE 4 — Planning & Decision Making**
+# **STAGE 4 — Planning & Decision Making**
 
 ## **4.1 — What is Planning & Why Managers Plan**
 
@@ -2101,7 +2101,7 @@ Also called: **"Throwing good money after bad"**
 
 ### 
 
-### **STAGE 5 — The Organizing Process**
+# **STAGE 5 — The Organizing Process**
 
 ## **5.1 — What is Organizing & Why it Matters**
 
@@ -2902,7 +2902,7 @@ MISMATCH → POOR PERFORMANCE
 
 ### 
 
-### **STAGE 6 — Leadership & Influence**
+# **STAGE 6 — Leadership & Influence**
 
 ## **6.1 — What is Leadership? (vs Management)**
 
@@ -3284,7 +3284,7 @@ flowchart LR
 | Political behavior                | —                                           | Networking, coalitions, ingratiation                    | —                           |
 | Good management practices         | —                                           | POLC + Ethics + People + Communication                  | Fall 2024 ✅ Spring 2025 ✅ |
 
-### **STAGE 7 — Managing Change & Innovation**
+# **STAGE 7 — Managing Change & Innovation**
 
 ## **7.1 — Why Change Happens in Organizations**
 
@@ -3660,7 +3660,9 @@ flowchart LR
 
 ### 
 
-### **STAGE 8 — The Controlling Process**
+
+
+# **STAGE 8 — The Controlling Process**
 
 ## **8.1 — What is Control & Its Purpose**
 
