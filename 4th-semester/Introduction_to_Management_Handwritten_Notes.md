@@ -643,6 +643,13 @@ Managers have **real but limited** influence. They operate within constraints th
 
 ### 
 
+
+
+
+
+
+
+
 # **STAGE 2 — Ethical & Social Environment**
 
 ## **2.1 — What is Ethics & Why it Matters in Business**
