@@ -1,25 +1,18 @@
-**📘 HANDWRITTEN-STYLE STUDY NOTES**
+#📘 HANDWRITTEN-STYLE STUDY NOTES**
 
 **Introduction to Management**
 
 *BSIT — 4th Semester*
-
 *Complete • Simplified • Exam-Focused*
 
 **What's inside:**
 
 ✔ All 8 stages of the course, fully explained
-
 ✔ Simple definitions for every key term
-
 ✔ Diagrams for the most important models & processes
-
 ✔ Real-life & Pakistani examples for every concept
-
 ✔ Memory tricks to help you recall fast
-
 ✔ Exam traps highlighted so you don't lose marks
-
 ✔ Past paper references marked with ⭐
 
 *Note: Words that may be hard are explained in [brackets] right where they appear.*
