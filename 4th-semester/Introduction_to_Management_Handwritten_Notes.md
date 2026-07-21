@@ -164,7 +164,7 @@
 
 **⭐ = directly appeared in your past papers**
 
-### **STAGE 1 — Managing & The Manager's Job**
+# **STAGE 1 — Managing & The Manager's Job**
 
 ## **1.1 — What is Management?**
 
